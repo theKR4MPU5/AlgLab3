@@ -1,81 +1,71 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
-namespace AlgLab3.TaskThree
+class UndoExample
 {
-    public class StackExample
+    static Stack<Action> undoStack = new Stack<Action>();
+    static Stack<Action> redoStack = new Stack<Action>();
+
+    static int currentValue = 0;
+
+    static void Main()
     {
-        public static double Example(List<string> rpn)
+        // Example Usage
+        PerformAction(() => { SetValue(5); });
+        PerformAction(() => { SetValue(10); });
+        PerformAction(() => { SetValue(20); });
+
+        PrintCurrentValue(); // Output: Current Value: 20
+
+        Undo();
+        PrintCurrentValue(); // Output: Current Value: 10
+
+        Redo();
+        PrintCurrentValue(); // Output: Current Value: 20
+    }
+
+    static void SetValue(int newValue)
+    {
+        undoStack.Push(() => { currentValue = newValue; });
+        redoStack.Clear(); // Clear redo stack after a new action
+    }
+
+    static void PerformAction(Action action)
+    {
+        action.Invoke();
+        undoStack.Push(action);
+    }
+
+    static void Undo()
+    {
+        if (undoStack.Count > 0)
         {
-            if (rpn.Count == 0)
-            {
-                throw new ArgumentException("Недопустимое кол-во значений");
-            }
-
-            Stack<double> calc = new Stack<double>();
-            foreach (var element in rpn)
-            {
-                double.TryParse(element, out double doubleValue);
-                if (doubleValue != 0)
-                {
-                    calc.Push(doubleValue);
-                }
-                else if (IsOperation(element))
-                {
-                    if (calc.Count < 2)
-                    {
-                        double first = calc.Pop();
-                        calc.Push(CalculateOperation(first: first, operation: element));
-                    }
-                    else
-                    {
-                        double second = calc.Pop();
-                        double first = calc.Pop();
-
-                        calc.Push(CalculateOperation(first: first, second: second, operation: element));
-                    }
-                }
-                else
-                {
-                    throw new ArgumentException("Недопустимое значение");
-                }
-            }
-
-            return calc.Pop();
+            Action undoAction = undoStack.Pop();
+            undoAction.Invoke();
+            redoStack.Push(undoAction);
         }
-        private static bool IsOperation(string operation) => operation.Equals("+")
-                                                             || operation.Equals("-")
-                                                             || operation.Equals("=")
-                                                             || operation.Equals("/")
-                                                             || operation.Equals("*")
-                                                             || operation.Equals("^")
-                                                             || operation.Equals("ln")
-                                                             || operation.Equals("cos")
-                                                             || operation.Equals("sin");
-        private static double CalculateOperation(double first, string operation, double second = 0)
+        else
         {
-            switch (operation)
-            {
-                case "+":
-                    return first + second;
-                case "-":
-                    return first - second;
-                case "/":
-                    return first / second;
-                case "*":
-                    return first * second;
-                case "ln":
-                    return Math.Log(first);
-                case "cos":
-                    return Math.Cos(first);
-                case "^":
-                    return Math.Pow(first, second);
-                case "sin":
-                    return Math.Sin(first);
-                default:
-                    throw new Exception("Недопустимая операция");
-            }
+            Console.WriteLine("Nothing to undo.");
         }
     }
-    
+
+    static void Redo()
+    {
+        if (redoStack.Count > 0)
+        {
+            Action redoAction = redoStack.Pop();
+            redoAction.Invoke();
+            undoStack.Push(redoAction);
+        }
+        else
+        {
+            Console.WriteLine("Nothing to redo.");
+        }
+    }
+
+    static void PrintCurrentValue()
+    {
+        Console.WriteLine($"Current Value: {currentValue}");
+    }
 }
