@@ -5,37 +5,35 @@ class UndoExample
 {
     static Stack<Action> undoStack = new Stack<Action>();
     static Stack<Action> redoStack = new Stack<Action>();
-
     static int currentValue = 0;
-
+    
     static void Main()
     {
-        // Example Usage
         PerformAction(() => { SetValue(5); });
         PerformAction(() => { SetValue(10); });
         PerformAction(() => { SetValue(20); });
-
-        PrintCurrentValue(); // Output: Current Value: 20
-
+        PrintCurrentValue();
         Undo();
-        PrintCurrentValue(); // Output: Current Value: 10
-
+        PrintCurrentValue();
         Redo();
-        PrintCurrentValue(); // Output: Current Value: 20
+        PrintCurrentValue();
     }
 
+    
     static void SetValue(int newValue)
     {
         undoStack.Push(() => { currentValue = newValue; });
         redoStack.Clear(); // Clear redo stack after a new action
     }
 
+    
     static void PerformAction(Action action)
     {
         action.Invoke();
         undoStack.Push(action);
     }
 
+    
     static void Undo()
     {
         if (undoStack.Count > 0)
