@@ -1,0 +1,144 @@
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.exe
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.deps.json
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.runtimeconfig.json
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.runtimeconfig.dev.json
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\ref\AlgorythmsLab3.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.pdb
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.Interfaces.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.AssemblyReference.cache
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.AssemblyInfoInputs.cache
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.AssemblyInfo.cs
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.CoreCompileInputs.cache
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.CopyComplete
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\ref\AlgorythmsLab3.dll
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.pdb
+D:\folder for trash code\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.genruntimeconfig.cache
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.AssemblyReference.cache
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.AssemblyInfoInputs.cache
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.AssemblyInfo.cs
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.CoreCompileInputs.cache
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.pdb
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.exe
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.deps.json
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.runtimeconfig.json
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.runtimeconfig.dev.json
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.pdb
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.Interfaces.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.CopyComplete
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\refint\AlgorythmsLab3.dll
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.genruntimeconfig.cache
+D:\Users\Данил\RiderProjects\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\ref\AlgorythmsLab3.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.exe
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.deps.json
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.runtimeconfig.json
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.runtimeconfig.dev.json
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.pdb
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.Interfaces.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.AssemblyReference.cache
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.AssemblyInfoInputs.cache
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.AssemblyInfo.cs
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.CoreCompileInputs.cache
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.CopyComplete
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\refint\AlgorythmsLab3.dll
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.pdb
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.genruntimeconfig.cache
+C:\Users\insignificance\Desktop\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\ref\AlgorythmsLab3.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.exe
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.deps.json
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.runtimeconfig.json
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.runtimeconfig.dev.json
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\AlgorythmsLab3.pdb
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.Interfaces.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\EPPlus.System.Drawing.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\System.Security.Cryptography.Pkcs.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.AssemblyReference.cache
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.AssemblyInfoInputs.cache
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.AssemblyInfo.cs
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.CoreCompileInputs.cache
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.csproj.CopyComplete
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\refint\AlgorythmsLab3.dll
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.pdb
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\AlgorythmsLab3.genruntimeconfig.cache
+D:\MyDoc\project\C#\2 курс Алгоритмы\Lab3Algorythm\AlgorythmsLab3\obj\Debug\net5.0\ref\AlgorythmsLab3.dll
