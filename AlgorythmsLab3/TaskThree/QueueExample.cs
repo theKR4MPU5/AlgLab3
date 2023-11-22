@@ -1,21 +1,41 @@
-﻿using System.Collections;
-using System.Linq;
+using System;
+using System.Collections.Generic;
+using System.Threading;
+using System.Threading.Tasks;
 
-namespace AlgLab3.TaskThree
+class TaskSchedulerExample
 {
-    public class QueueExample
+    static Queue<Func<Task>> taskQueue = new Queue<Func<Task>>();
+
+    static async Task Main()
     {
-        public static System.Collections.Generic.Queue<T> Example<T>(System.Collections.Generic.Queue<T> firstQueue, System.Collections.Generic.Queue<T> secondQueue)
+        EnqueueTask(() => PrintMessage("Task 1"));
+        EnqueueTask(() => PrintMessage("Task 2"));
+        EnqueueTask(() => PrintMessage("Task 3"));
+
+        await ExecuteTasksAsync();
+
+        Console.WriteLine("All tasks completed.");
+    }
+
+    static void EnqueueTask(Func<Task> task)
+    {
+        taskQueue.Enqueue(task);
+    }
+
+    static async Task ExecuteTasksAsync()
+    {
+        while (taskQueue.Count > 0)
         {
-            System.Collections.Generic.Queue<T> result = new System.Collections.Generic.Queue<T>();
-            int index = 0;
-            while (index <= secondQueue.Count)
-            {
-                if (index % 2 != 0) result.Enqueue(firstQueue.ElementAt(index));
-                else result.Enqueue(secondQueue.ElementAt(index));
-                index++;
-            }
-            return result;
+            Func<Task> task = taskQueue.Dequeue();
+            await task();
         }
+    }
+
+    static async Task PrintMessage(string message)
+    {
+        Console.WriteLine($"Start: {message} on Thread {Thread.CurrentThread.ManagedThreadId}");
+        await Task.Delay(2000); 
+        Console.WriteLine($"End: {message} on Thread {Thread.CurrentThread.ManagedThreadId}");
     }
 }
