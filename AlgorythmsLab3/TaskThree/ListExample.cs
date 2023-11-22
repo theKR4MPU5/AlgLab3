@@ -1,20 +1,54 @@
-﻿using System.Collections.Generic;
+using System;
+using System.Collections.Generic;
 
-namespace AlgLab3.TaskThree
+
+class PlaylistNode
 {
-    public class ListExample
+    public string Title { get; set; }
+    public string Artist { get; set; }
+    public string FilePath { get; set; }
+    public PlaylistNode Next { get; set; }
+
+    public PlaylistNode(string title, string artist, string filePath)
     {
-        public static List<T> Example<T>(List<T> firstList, List<T> secondList)
+        Title = title;
+        Artist = artist;
+        FilePath = filePath;
+        Next = null;
+    }
+}
+
+
+class Playlist
+{
+    private PlaylistNode head;
+
+    public void AddSong(string title, string artist, string filePath)
+    {
+        PlaylistNode newNode = new PlaylistNode(title, artist, filePath);
+
+        if (head == null)
         {
-            List<T> result = new List<T>();
-            foreach (T item in firstList)
+            head = newNode;
+        }
+        else
+        {
+            PlaylistNode current = head;
+            while (current.Next != null)
             {
-                if (secondList.Contains(item))
-                {
-                    result.Add(item);
-                }
+                current = current.Next;
             }
-            return result;
+            current.Next = newNode;
+        }
+    }
+
+    public void DisplayPlaylist()
+    {
+        PlaylistNode current = head;
+        while (current != null)
+        {
+            Console.WriteLine($"Title: {current.Title}, Artist: {current.Artist}, FilePath: {current.FilePath}");
+            current = current.Next;
         }
     }
 }
